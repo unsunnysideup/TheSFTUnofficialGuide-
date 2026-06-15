@@ -39,9 +39,9 @@ My domain is solo female travel experiences. This unofficial guide will provide 
 | 17 | r/travel | Advice for women solo traveling for the first time | [Link](https://www.reddit.com/r/travel/comments/x6xx4c/the_advice_i_needed_3_years_ago_when_i_started/) |
 | 18 | r/solotravel | Hacks and tips to solo travel | [Link](https://www.reddit.com/r/solotravel/comments/fc9vd7/i_consolidated_all_of_rsolotravels_little_hacks/) |
 | 19 | Solo Traveler | Reasons, advice, and trip ideas for aspiring solo female travelers | [Link](https://solotravelerworld.com/category/how-to-travel-alone/solo-female-travel/) |
-| 20 | The New York Times | Tips for Solo Women Travelers | [Link](https://www.nytimes.com/2025/02/21/travel/solo-women-travelers.html) |
+| 20 | EatWanderExplore | Advice for solo female and LGBTQ traveling | [Link](https://eatwanderexplore.com/start-traveling-blog/is-it-safe-for-women-or-lgbtq-to-travel-around-the-world-plus-expert-travel-advice) |
 | 21 | Blond Wayfarer | Solo Female Travel Guide for Beginners | [Link](https://blondwayfarer.com/beginners-guide-solo-female-travel/) |
-| 22 | Kiplinger | Advice to safely travel solo as an older woman | [Link](https://www.kiplinger.com/personal-finance/travel/how-to-safely-travel-solo-older-woman) |
+| 22 | BucketListly Blog | Experience traveling solo as an Asian female traveler | [Link](https://www.bucketlistly.blog/posts/solo-female-traveler-gone-goat-interview) |
 | 23 | r/AskWomenOver60 | Perspectives on feeling vulnerable solo traveling as one gets older | [Link](https://www.reddit.com/r/AskWomenOver60/comments/1fdunkm/if_you_travel_solo_do_you_feel_more_vulnerable_as/) |
 | 24 | The Good Life Abroad | Solo Travel Tips for Senior Women | [Link](https://thegoodlifeabroad.com/senior-women-travel/auto-draft) |
 | 25 | Women on the Road | The Highs and Lows of Older Women Solo Travel | [Link](https://www.women-on-the-road.com/solo-travel.html) |
@@ -55,8 +55,6 @@ My domain is solo female travel experiences. This unofficial guide will provide 
 | 33 | r/solotravel | Solo traveling concerns from an Asian woman | [Link](https://www.reddit.com/r/solotravel/comments/6dluxu/solo_travelling_concerns_asian_female/) |
 | 34 | Adventures with Carli | Safety tips for solo travelers | [Link](https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/) |
 | 35 | Essence | The Black girl's guide to traveling internationally | [Link](https://www.essence.com/lifestyle/travel/solo-travel-tips-for-beginners/) |
-| 36 | BucketListly Blog | Experience traveling solo as an Asian female traveler | [Link](https://www.bucketlistly.blog/posts/solo-female-traveler-gone-goat-interview) |
-| 37 | EatWanderExplore | Advice for solo female and LGBTQ traveling | [Link](https://eatwanderexplore.com/start-traveling-blog/is-it-safe-for-women-or-lgbtq-to-travel-around-the-world-plus-expert-travel-advice) |
 
 ---
 
