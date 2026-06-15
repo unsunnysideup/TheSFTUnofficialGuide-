@@ -74,16 +74,18 @@ Articles and Blogs: Both forms of sources are longer and narrative like, and org
 
 I'm planning to mainly implement recursive chunking to split text. Reddit posts aren't uniformly sized and tend to have noisy unstructured text. Recursive chunking also can be used for articles and blogs since they may not have consistent formattings.
 
+Finalized:
+| Source | Chunk Size | Overlap Size |
+|--------|------------|--------------|
+| Reddit | 400 Characters | 50 Chars |
+| Blogs | 550 Characters | 100 Chars|
+| Articles | 500 Characters | 100 Chars |
+
+After implementing chunk.py, I realized the chunks for blogs and articles are too lengthy and involved noisy/irrelevant information. So I cut it short around 500-550 for blogs and articles. 
 
 ---
 
 ## Retrieval Approach
-
-<!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
-     How many chunks will you retrieve per query (top-k)?
-     If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
-     would you weigh in choosing a different embedding model — context length, multilingual
-     support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:** all-MiniLM-L6-v2 via sentence transformers
 
@@ -103,7 +105,7 @@ I would weigh in context length and latency when it comes to choosing a differen
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | What do people say about staying in hostels as a solo female traveler? | People say staying in hostels feel safe and gives a sense of community. Plus it is budget friendly |
+| 1 | What are people's opinions about staying in hostels as a solo female traveler? | People say staying in hostels feel safe and gives a sense of community. Plus it is budget friendly |
 | 2 | What do people say about the pros of solo travel? | Self-development, empowerment, not waiting for people, complete control, managing own budget
 | 3 | What do people say about managing to feel safe during traveling? | Being situationally aware, looking confident, and do your research |
 | 4 | Why do people worry about traveling alone as a woman? | Safety Issues|
@@ -139,3 +141,11 @@ All parts of the pipeline will be assisted by Claude
 **Milestone 4 — Embedding and retrieval:**
 
 **Milestone 5 — Generation and interface:**
+Test Runs:
+Q1: Accurate
+Q2: Accurate
+Q3: Accurate
+Q4: Accurate
+Q5: Accurate
+
+Failure Case: The output to one question: "Should I go to Egypt" resulted in improper capitalization when quoting. This is likely due to improper cleaning of text. 
