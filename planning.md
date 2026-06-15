@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+My domain is solo female travel experiences. This unofficial guide will provide general information, spanning what it’s like to travel at different ages as a woman, the pros and cons of solo travel, and packing and safety advice. This knowledge is hard to find because it’s spread across diverse sources. It’s time-consuming to go through each source, and there’s a high likelihood you'll miss key information while searching for what you need about solo female travel experiences. 
 
 ---
 
