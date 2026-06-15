@@ -9,6 +9,7 @@ My domain is solo female travel experiences. This unofficial guide will provide 
 
 ## Document Sources
 
+Here are the sources that were successfully scrapped:
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
