@@ -304,16 +304,9 @@ SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
-Read more on The Best Travel Credit Card for Beginners
-
---- CHUNK 38 ---
-SOURCE_ID: 34
-SOURCE_TYPE: blog
-URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
-
 Unfortunately, many countries around the world are still cash heavy, so it’s important to review ahead of time if you need cash or not. In countries where you need to have cash on hand you should make sure that you have a debit card that reimburses you for transaction fees. Since I travel so regularly I’ve gotten the Charles Schwab debit card just to use for traveling. It has no monthly fees, no foreign transaction fees and will reimburse additional ATM fees. (I don’t get any referral bonuses, I just really love this account.)
 
---- CHUNK 39 ---
+--- CHUNK 38 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -321,14 +314,14 @@ URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-
 Using foreign ATMs
 When using foreign ATMs you should always try to use an ATM that is clearly linked to a specific bank (HSBC, BMO, Deutsche Bank, Banamex, etc.) versus one that is generic. NEVER accept the bank to do a “currency conversion” to your local currency as this usually includes an additional fee and a bad exchange rate. ALWAYS select whatever the local currency is (Euros, Pesos, Yen, etc.) and your bank will do the exchange at the market rate.
 
---- CHUNK 40 ---
+--- CHUNK 39 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 You should also never exchange money, especially at the airport. Money exchanges are notorious for giving you a much lower rate than your bank. You’re better off going to the ATM than bringing money to exchange.
 
---- CHUNK 41 ---
+--- CHUNK 40 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -336,35 +329,35 @@ URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-
 However, as a back up, it’s always helpful to bring USD (if you’re from America) or possibly Euros or Pounds (if from Europe) just in case. But if you plan to use this money they have to be the nicest bills you can find. The crisper the better. While normally in the US, brand new bills are suspicious versus the ones that are a little beat up or written on, outside the US most people will not accept cash with any sort of tears, writing, or even too many creases. Be sure to check your stack ahead of time.
 Solo safety basics: Get insurance
 
---- CHUNK 42 ---
+--- CHUNK 41 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 One of my biggest safety tips for solo travelers is to get travel and medical insurance to protect yourself from potential issues. Many travel credit cards will include basic travel insurance for baggage and trip delays, lost bags, etc. But this is based on the card you use to book your flights. Third party insurance will cover all of that regardless of what card you’ve used to book your trip
 
---- CHUNK 43 ---
+--- CHUNK 42 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 . Third party insurance will cover all of that regardless of what card you’ve used to book your trip. Also, there is usually an option for trip cancellation should something come up where you either have to cancel your trip prior to leaving or during the trip.
 
---- CHUNK 44 ---
+--- CHUNK 43 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 Never book insurance through your airline. It will always cost significantly more money and there are usually much more specific rules with the cancellation policy.
 
---- CHUNK 45 ---
+--- CHUNK 44 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 With separate travel insurance you can (and should) book it to include medical insurance when traveling outside of the country. I don’t know who needs to hear this, but your US (or Canadian) insurance will not work in another country. So if something happens and you need medical attention, you won’t have to worry about huge bills. For anyone that lives outside of the US you should ALWAYS book medical insurance when traveling here, as our health care system is meant to bankrupt people without insurance.
 
---- CHUNK 46 ---
+--- CHUNK 45 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -372,7 +365,7 @@ URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-
 Another reason for additional insurance is if you plan to rent a car (which I have done solo in different countries). I’ve had an incident (see below) where I had to work with my travel insurance to get reimbursed, because my credit card wouldn’t do it as they couldn’t get any documentation from the car rental company.
 Why Renting A Car in Guatemala City is the Best Way to Ruin a Vacation
 
---- CHUNK 47 ---
+--- CHUNK 46 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -381,35 +374,35 @@ Why Renting A Car in Guatemala City is the Best Way to Ruin a Vacation
 For travel, medical and additional rental car insurance I book through Visitors Coverage. This is an insurance aggregator that allows you to review and compare different insurance companies and plans to choose what is best for you. The policy will vary based on age of purchaser, cost of trip, and destination, but they have some very fair and competitive rates.
 Medical supplies
 
---- CHUNK 48 ---
+--- CHUNK 47 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 It should go without saying that you need to bring any prescription meds with you while traveling. I think it is also helpful to bring some additional over the counter medications that you may need like Pepto (or similar), pain relief meds, and even some cold medication. Believe me you do not want to be at a pharmacy trying to use Google to find the equivalent to DayQuil. A full first aid kit is going to be overkill, but having a small tube of antibiotic ointment (like Neosporin) and some bandaids in your luggage can come in very handy.
 
---- CHUNK 49 ---
+--- CHUNK 48 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 How to be safe traveling alone as a woman
 
---- CHUNK 50 ---
+--- CHUNK 49 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 The best tips for solo female travelers are to be familiar with and pay attention to your surroundings. This won’t happen right away when you land in a new city or country, but once you get there you should familiarize yourself with different landmarks. If you plan to take public transportation, review how to buy tickets and where the stops are ahead of time. Before you go out for the day, review your maps so you have an understanding of the area and geography
 
---- CHUNK 51 ---
+--- CHUNK 50 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 . While out, if you’re wearing headphones, don’t have the volume up so loud that you can’t hear what’s going on around you.
 
---- CHUNK 52 ---
+--- CHUNK 51 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -418,7 +411,7 @@ When it comes to interacting with new people, or even places, embrace your natur
 While you do have to be more guarded as a woman traveling alone, you’ll have a newfound sense of freedom and independence once you start traveling solo.
 How to solo travel with anxiety
 
---- CHUNK 53 ---
+--- CHUNK 52 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -427,7 +420,7 @@ How to solo travel with anxiety
 Unfortunately anxiety doesn’t just disappear when you travel, and solo travel can exacerbate that anxiety at times. I’ve struggled with my own anxiety issues while traveling from party from exhaustion, and a lot with social anxiety. The only difference is I’m somewhere unknown vs in the safety of my own home. Below are some tips that help me when I’m traveling.
 If you feel yourself becoming overwhelmed or on the verge of an anxiety episode go back to your hotel/apt/house/hostel and take a few hours to relax.
 
---- CHUNK 54 ---
+--- CHUNK 53 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -435,21 +428,21 @@ URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-
 Set up check-ins with yourself throughout the day. Assess how you’re feeling, are you pushing yourself to do too much in a day? Have you gotten enough sleep?
 Don’t be afraid to have rest days. It can be hard to stop yourself from wanting to see or do everything in a new location, but that also leads to burnout. For longer trips, build in days with little to no itinerary to reset and rest.
 
---- CHUNK 55 ---
+--- CHUNK 54 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 Have a few people you can reach out to. Maybe it’s a friend, partner or family member, but having a person (or multiple people) to quickly check in with throughout your trip will help you stay and feel connected to your home base.
 
---- CHUNK 56 ---
+--- CHUNK 55 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
 
 Try to keep a routine. This is very difficult when traveling, even more so if you’ve got an itinerary where you change locations regularly. But there may be certain things you can do to stay on track. This might be having your morning coffee, setting aside time to journal or meditate, getting to bed at a certain hour. Whatever you need, try to find time to do those things.
 
---- CHUNK 57 ---
+--- CHUNK 56 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -460,7 +453,7 @@ Is solo travel safe?
 Yes, solo travel can be just as safe as traveling with another person or a group. And, in many ways traveling solo can sometimes help you blend in more.
 How to stay safe while traveling solo?
 
---- CHUNK 58 ---
+--- CHUNK 57 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -469,7 +462,7 @@ How to stay safe while traveling solo?
 A few important safety tips for solo travelers are: make sure to share your itinerary with friends or family and check in regularly, research your destination and hotels prior to traveling, make sure you have working cell phone data for international trips, and trust your instincts with new people and places.
 How can I stay safe while traveling solo especially as a woman?
 
---- CHUNK 59 ---
+--- CHUNK 58 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/
@@ -482,7 +475,7 @@ Set up a solo travel consultation with me by emailing me info@adventureswithcarl
 Quick links: Helpful sites for your travel needs
 Find accomodations
 
---- CHUNK 60 ---
+--- CHUNK 59 ---
 SOURCE_ID: 34
 SOURCE_TYPE: blog
 URL: https://adventureswithcarli.com/resources/solo-travel/safety-tips-for-solo-travelers/

@@ -75,7 +75,7 @@ def clean_pasted_reddit(text: str) -> str:
     # remove age tags
     content = re.sub(r'\n(MOD|AUTO|[0-9]+ something|Old)\n', '\n', content)
     # remove timestamps
-    content = re.sub(r'•?\s*\d+[ymd] ago', '', content)
+    text = re.sub(r'•?\s*\d+\s*(y|mo|d|h|m) ago', '', content)
     # remove usernames
     content = re.sub(r'\nu/\S+\s*\n', '\n', content)
     # remove avatar lines
@@ -143,9 +143,12 @@ def fetch_article(url: str) -> str:
         include_tables=False,
         no_fallback=False
     )
-    text = re.sub(r'^- ', '', text, flags=re.MULTILINE)
-    text = re.sub(r'\n{3,}', '\n\n', text)
-    text = re.sub(r'^.+\|\s*By\s+.+$', '', text, flags=re.MULTILINE)
+    if text:
+        text = re.sub(r'^.+\|\s*By\s+.+$', '', text, flags=re.MULTILINE)           # remove bylines
+        text = re.sub(r'^- ', '', text, flags=re.MULTILINE)                         # remove bullet dashes
+        text = re.sub(r'^Check out our.+$', '', text, flags=re.MULTILINE)           # remove promo lines
+        text = re.sub(r'^(Click here|Read more|Learn more|Sign up|Subscribe|Follow us|Visit our).+$', '', text, flags=re.MULTILINE)  # remove CTAs
+        text = re.sub(r'\n{3,}', '\n\n', text)                                      # collapse whitespace
     return text or ""
 
 

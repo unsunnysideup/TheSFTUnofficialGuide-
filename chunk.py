@@ -18,7 +18,7 @@ CHUNK_SETTINGS = {
 }
 
 # recursive separators — tries these in order before hard character split
-SEPARATORS = ["\n\n", "\n", ". ", "! ", "? ", " ", ""]
+SEPARATORS = ["\n\n", "\n", ". ", ": ", "! ", "? ", " ", ""]
 
 # ─────────────────────────────────────────
 # PARSE HEADER
